@@ -10,10 +10,10 @@ const LinkTable = () => {
   return (
     <div className="flex-row m-10">
       <Link icon={<SlSocialGithub />} social='My GitHub' link="https://github.com/Rhema-dev"/>
-      <Link icon={<CgWebsite />} social='My Portfolio' link="https://personal-website-indol-zeta-24.vercel.app/"/>
+      <Link icon={<CgWebsite />} social='My Portfolio' link="https://rhemaa.vercel.app/"/>
       <Link icon={<ImWhatsapp/>} social='Whatsapp Me' link="https://wa.me/+2347041099662"/>
       <Link icon={<SiGmail/>} social='Email Me' link="mailto:emmarhema20000@gmail.com"/>
-      <Link icon={<TbBrandTiktokFilled />} social='My Tiktok' link="https://www.tiktok.com/@khua.a"/>
+      <Link icon={<TbBrandTiktokFilled />} social='My Tiktok' link="https://www.tiktok.com/@khua.ae"/>
     </div>
   )
 }
